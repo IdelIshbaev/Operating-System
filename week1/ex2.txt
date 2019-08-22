@@ -1,0 +1,500 @@
+    8  clang ass.c
+    9  clang ass.c
+   10  clear
+   11  clear
+   12  clang ass.c
+   13  clear
+   14  clang ass.c
+   15  clear
+   16  clang ass.c
+   17  ./a.out
+   18  clanf ass.c
+   19  clang ass.c
+   20  ./a.out
+   21  clear
+   22  clang new.c
+   23  clear
+   24  clang new.c
+   25  ./a.out
+   26  clang 
+   27  clang new.c
+   28  ./a.out
+   29  clear
+   30  clang new.c
+   31  ./a.out
+   32  clang new.c
+   33  ./a.out
+   34  clang new.c
+   35  ./a.out
+   36  clang ass.c
+   37  clang ass.c
+   38  clang ass.c
+   39  clear
+   40  clang ass.c
+   41  clang ass.c
+   42  clear
+   43  clang ass.c
+   44  clang ass.c
+   45  ./a.out
+   46  clang ass.c
+   47  ./a.out
+   48  clang new.c
+   49  clear
+   50  clang new.c
+   51  clear
+   52  clang ass.c
+   53  clear
+   54  clang new.c
+   55  clang new.c
+   56  ./a.out
+   57  clang new.c
+   58  clang new.c
+   59  ./a.our
+   60  ./a.out
+   61  clear
+   62  clang ass.c
+   63  clear
+   64  clang ass.c
+   65  clear
+   66  clang ass.c
+   67  clear
+   68  clang ass.c
+   69  clear
+   70  clang ass.c
+   71  ./a.pit
+   72  ./a.out
+   73  clang new.c
+   74  clang new.c
+   75  clang new.c
+   76  ./a.out
+   77  clang ass.c
+   78  clang ass.c
+   79  ./a.out
+   80  clea
+   81  clear
+   82  clang new.c
+   83  ./a.out
+   84  clang new.c
+   85  ./a.out
+   86  clang new.c
+   87  ./a.out
+   88  clang new.c
+   89  ./a.out
+   90  clang new.c
+   91  ./a.out
+   92  clang new.c
+   93  clear
+   94  clang new.c
+   95  ./a.out
+   96  clang new.c
+   97  clear
+   98  clang new.c
+   99  ./a.out
+  100  clear
+  101  clang new.c
+  102  clear
+  103  clang new.c
+  104  ./a.out
+  105  clang new.c
+  106  ./a.out
+  107  clear
+  108  clang ass.c
+  109  ./a.out
+  110  clang ass.c
+  111  clear
+  112  clang ass.c
+  113  clear
+  114  clang ass.c
+  115  clear
+  116  clang ass.c
+  117  ./a.out
+  118  clear
+  119  clang ass.c
+  120  ./a.out
+  121  clang ass.c
+  122  ./a.out
+  123  clear
+  124  clang ass.c
+  125  ./a.out
+  126  clear
+  127  clang ass.c
+  128  clear
+  129  clang ass.c
+  130  clear
+  131  clang ass.c
+  132  ./a.out
+  133  clear
+  134  clang ass.c
+  135  clear
+  136  clang ass.c
+  137  clear
+  138  clang ass.c
+  139  clear
+  140  clang ass.c
+  141  ./a.out
+  142  clang ass.c
+  143  clear
+  144  clang ass.c
+  145  ./a.out
+  146  clear
+  147  clang ass.c
+  148  ./a.out
+  149  clear
+  150  clang ass.c
+  151  clear
+  152  clang ass.c
+  153  clear
+  154  clang ass.c
+  155  ./a.out
+  156  clang ass.c
+  157  clear
+  158  clang ass.c
+  159  ./.out
+  160  ./a.out
+  161  ./a.out
+  162  clang ass.c
+  163  class
+  164  ./a.out
+  165  clear
+  166  clang ass.c
+  167  ./a.out
+  168  ass.c
+  169  ./a
+  170  clang ass.c
+  171  ./a.out
+  172  cd Decktop
+  173  cd Desktop
+  174  cd it[
+  175  cd itp
+  176  clear
+  177  clang /Users/idel_isbaev/Desktop/itp/AyazBaykov.c 
+  178  ./a.out
+  179  cd Desktop
+  180  cd idelass
+  181  clang /Users/idel_isbaev/Desktop/idelass/ass.c 
+  182  ./a.out
+  183  clear
+  184  clang ass.c
+  185  ./a.out
+  186  ./a.out
+  187  clang ass.c
+  188  ./a.out
+  189  ./a.out
+  190  ./a.out
+  191  clang ass.c
+  192  ./a.out
+  193  clear
+  194  clang ass.c
+  195  ./a.out
+  196  clear
+  197  clang ass.c
+  198  ./a.out
+  199  clear
+  200  clang ass.c
+  201  ./a.out
+  202  clear
+  203  clang ass.c
+  204  ./a.out
+  205  clear
+  206  clang ass.c
+  207  ./a.out
+  208  clear
+  209  clang ass.c
+  210  ./a.out
+  211  clear
+  212  clang ass.c
+  213  ./a.out
+  214  clear
+  215  clang ass.c
+  216  ./a.out
+  217  ./a.out
+  218  clear
+  219  clang ass.c
+  220  ./a.out
+  221  clear
+  222  clang ass.c
+  223  ./a.out
+  224  clear
+  225  clang ass.c
+  226  ./a.out
+  227  clang ass.c
+  228  ./a.out
+  229  clang ass.c
+  230  ./a.out
+  231  clear
+  232  clang ass.c
+  233  ./a.out
+  234  clear
+  235  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  236  ./a.out
+  237  ./a.out
+  238  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  239  ./a.out
+  240  clear
+  241  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  242  ./a.out
+  243  clear
+  244  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  245  ./a.out
+  246  ./a.out
+  247  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  248  ./a.out
+  249  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  250  ./a.out
+  251  cd Desktop
+  252  cd idelass
+  253  clang /Users/idel_isbaev/Desktop/idelass/IdelIshbaev.c 
+  254  ./a.out
+  255  cd Desktop
+  256  cd c
+  257  cd Decktop/c
+  258  cd Desktop\c
+  259  cd Desktop/c
+  260  clear
+  261  clear
+  262  cd itp
+  263  cd inp
+  264  cd Desktop 
+  265  cd Desktop 
+  266  clear
+  267  cd it[
+  268  cd itp
+  269  clear
+  270  cd Desktop
+  271  clear
+  272  cd Desktop
+  273  cd itp
+  274  gss -S -O1 lab13DoWhile.c -o DoWhile.s
+  275  gcc -S -O1 lab13DoWhile.c -o DoWhile.s
+  276  gcc -S -O1 lab13GoTo.c -o GoTo.s
+  277  gcc -S -O1 lab13While.c -o While.s
+  278  cd Desktop 
+  279  clang /Users/idel_isbaev/Desktop/test.c 
+  280  ./a.out
+  281  clang test.c
+  282  clang test.
+  283  clang test.c
+  284  ./a.out
+  285  clang test.c
+  286  clear
+  287  clang test.c
+  288  clang test.c
+  289  clear
+  290  cleang test.c
+  291  clang test.c
+  292  clear
+  293  clang test.c
+  294  clang test.c
+  295  clang test.c
+  296  ./a.out
+  297  clear
+  298  clang test.c
+  299  ./a.out
+  300  clear
+  301  clang test.c
+  302  ./a.out
+  303  clear
+  304  clang test.c
+  305  ./a.out sasas
+  306  clang test.c
+  307  ./a.out sasa
+  308  clear
+  309  clang test.c
+  310  ./a.out
+  311  clear
+  312  clang test.c
+  313  ./a.out
+  314  clear
+  315  clang test.c
+  316  clang test.c
+  317  clear
+  318  clang test.c
+  319  clear
+  320  clang test.c
+  321  clear
+  322  clang test.c
+  323  clear
+  324  clang test.c
+  325  ./a.out
+  326  clan test.c
+  327  clang test.c
+  328  clear
+  329  clang test.c
+  330  clang test.c
+  331  clang temp.c
+  332  clang temp.c
+  333  ./clear
+  334  clear
+  335  clang temp.c
+  336  clear
+  337  clang test.c
+  338  clang test.c
+  339  ./a.out
+  340  clang test.c
+  341  ./a.out
+  342  clear
+  343  clang test.c
+  344  ./a.out
+  345  clear
+  346  clang test.c
+  347  .a/.out
+  348  ./a.out
+  349  clear
+  350  clang test.c
+  351  ./a.out
+  352  clear
+  353  clang test.c
+  354  ./a.out
+  355  clea
+  356  rclear
+  357  clear
+  358  clang test.c
+  359  ./a.out
+  360  clear
+  361  clang test.c
+  362  ./a.out
+  363  clear
+  364  clang test.c
+  365  ./a.out
+  366  clang test.c
+  367  ./a.out
+  368  clear
+  369  clang test.c
+  370  ./a.out
+  371  clear
+  372  clang test.c
+  373  clear
+  374  clang test.c
+  375  ./a.out
+  376  clang test.c
+  377  ./a.out
+  378  clear
+  379  clang test.c
+  380  ./a.out
+  381  clang test.c
+  382  ./a.out
+  383  clang test.c
+  384  ./a.out
+  385  clang test.c
+  386  ./a.out
+  387  clear
+  388  clang test.c
+  389  ./a.out
+  390  clear
+  391  clang test.c
+  392  ./a.out
+  393  clear
+  394  clang /Users/idel_isbaev/Desktop/itp/lab12.c 
+  395  ./a.out
+  396  clang test.c
+  397  clear
+  398  cd Desktop
+  399  clang test.c
+  400  ./a.out
+  401  clang test.c
+  402  ./a.out
+  403  clang test.c
+  404  clang test.c
+  405  ./a.out
+  406  clang test.c
+  407  clear
+  408  clang test.c
+  409  ./a.out
+  410  clang test.c
+  411  ./a.out
+  412  clear
+  413  clang test.c
+  414  ./a.out
+  415  clear
+  416  clang test.c
+  417  clang test.c
+  418  ./a.out
+  419  clear
+  420  clang test.c
+  421  clear
+  422  clang test.c
+  423  ./a.out
+  424  clang test.c
+  425  ./a.out
+  426  clear
+  427  clang test.c
+  428  ./a.out
+  429  clang test.c
+  430  ./a.out
+  431  clang test.c
+  432  ./a.out
+  433  ggc -v 
+  434  gcc -v
+  435  clang test.c
+  436  cd Desktop 
+  437  clang test.c
+  438  ./a.out
+  439  clang test.c
+  440  clear
+  441  cd Desktop 
+  442  clang tes.c
+  443  clang test.c
+  444  ./a.out
+  445  whoami
+  446  hostname
+  447  man <item>
+  448  man man
+  449  mkdir ~/week1
+  450  cd ~/week1
+  451  list /usr/bin
+  452  ls /usr/bin
+  453  ls /usr/bin gcc
+  454  clear
+  455  ls /usr/bin gcc reverse : ~/week1/ex1.txt
+  456  clear
+  457  ls /usr/bin gcc reverse
+  458  ls /usr/bin -r 
+  459  clear
+  460  ls /usr/bin "gcc"
+  461  clear
+  462  ls /usr/bin -r grap "gcc"
+  463  ls -r | grep e
+  464  ls -r | grep ls
+  465  ls -r | grep l 
+  466  ls /usr/bin -r | grep ls
+  467  ls /usr/bin -r | grep gcc
+  468  clear
+  469  ls /usr/bin -r |grep gcc >> ex1.txt
+  470  touch <filename>
+  471  cat > ex1.txt
+  472  clear
+  473  touch ex1.txt
+  474  ls /usr/bin -r |grep gcc >> ex1.txt
+  475  ls /usr/bin -r "grep gcc
+  476  q
+  477  asfknksjdf\sdf'
+  478  sdfsdfs\
+  479  clear
+  480   
+  481  ~/week1
+  482  cd ~/ week1
+  483  touch eq
+  484  cd ~/week1
+  485  ls /usr/bin -r | grep ls
+  486  ls /usr/bin -r |grep ls >> ex1.txt
+  487  ls /usr/bin -r |grep "ls"
+  488  ls /usr/bin |grep "ls"
+  489  ls /usr/bin -r |grep "ls"
+  490  ls -r /usr/bin |grep "ls"
+  491  ls -r /usr/bin |grep "ls" >> ex1.txt
+  492  ls -r /usr/bin |grep "gcc >> ex1.txt
+  493  cd ~/ week1
+  494  ls -r /usr/bin |grep "gcc" >> ex1.txt
+  495  ls -r /user/bin |grep "ls" >> ex1.txt
+  496  ls -r /usr/bin |grep "ls" >> ex1.txt
+  497  ls -r /usr/bin |grep "ls"
+  498  cd ~/week1
+  499  ls -r /usr/bin |grep "ls" >> ex1.txt
+  500  touch ex2.txt
+  501  man 
+  502  man help
+  503  man h
+  504  man man 
+  505  whoami
+  506  hostname 
+  507  history > ex2.txt

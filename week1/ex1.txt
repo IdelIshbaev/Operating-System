@@ -1,0 +1,16 @@
+zipdetails5.18
+zipdetails
+tclsh8.5
+tclsh
+tailspin
+symbolscache
+symbols
+rails
+mdls
+lsvfs
+lsmp
+lsm
+lskq
+lsbom
+lsappinfo
+false
