@@ -1,0 +1,2 @@
+../../OSCourse/week1/file.txt
+../../OSCourse/week10/_ex2.txt

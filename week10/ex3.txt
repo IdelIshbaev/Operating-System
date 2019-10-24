@@ -1,0 +1,33 @@
+AFTER REMOIVG X PERMISSION TO EVERYBODY
+total 8
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc  0 окт 24 13:04 _ex1_1.txt
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc  0 окт 24 13:04 _ex1_2.txt
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc  0 окт 24 13:04 _ex1.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc 58 окт 24 13:06 ex1.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc 61 окт 24 13:19 ex2.txt
+-rw-rw-rw- 1 tiefretnuoc tiefretnuoc  0 окт 24 13:27 _ex3.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc  0 окт 24 13:28 ex3.txt
+
+AFTER GRANTING ALL PERMS TO OWNER AND OTHERS
+total 12
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc   0 окт 24 13:04 _ex1_1.txt
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc   0 окт 24 13:04 _ex1_2.txt
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc   0 окт 24 13:04 _ex1.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc  58 окт 24 13:06 ex1.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc  61 окт 24 13:19 ex2.txt
+-rwxrw-rwx 1 tiefretnuoc tiefretnuoc   0 окт 24 13:27 _ex3.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc 464 окт 24 13:28 ex3.txt
+
+AFTER G=U
+total 12
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc   0 окт 24 13:04 _ex1_1.txt
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc   0 окт 24 13:04 _ex1_2.txt
+-rw-r--r-- 3 tiefretnuoc tiefretnuoc   0 окт 24 13:04 _ex1.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc  58 окт 24 13:06 ex1.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc  61 окт 24 13:19 ex2.txt
+-rwxrwxrwx 1 tiefretnuoc tiefretnuoc   0 окт 24 13:27 _ex3.txt
+-rw-r--r-- 1 tiefretnuoc tiefretnuoc 937 окт 24 13:31 ex3.txt
+
+660 owner and group can read and write, others cannot do anything
+775 owner and groups have all permissions and others can read end execute
+777 all users can read, write and execute
