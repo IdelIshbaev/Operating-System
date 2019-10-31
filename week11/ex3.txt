@@ -1,0 +1,1 @@
+Buffer type is _IOLBF(line buffered) and because of this it work in this way.
